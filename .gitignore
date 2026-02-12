@@ -1,0 +1,22 @@
+# Data and Datasets
+# Keeping the raw data out of the repo to save space
+Dataset/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Documentation / Assignment instructions
+# (Usually best to keep these out of the final code submission)
+Assignment 2 2026.pdf
+
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
